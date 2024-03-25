@@ -1,0 +1,13 @@
+print(" QUESTÃO 1- Turing na Física - item A" )
+  
+
+# legenda: x é a variavel responsavel por receber os email 
+x = input("coloque seus email:")
+
+ #preciso que essa pergunta se repita N vezes, mas não está rodando não estou digitando o codigo da forma correta... help 
+for x in range():
+print(input("coloque seus email:"))
+
+#contador para que some todas a palvaras repetidas. 
+quantidade = x.leg("")
+print( "output:" quantidade ) 
