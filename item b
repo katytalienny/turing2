@@ -1,0 +1,5 @@
+print("Turing na Física - item b")
+
+corrige_emails = input("corrige emails",)
+    # esse eu preciso fatiar metade, inverter cada metade, juta-las  einverter denovo. tem alguma ideia de como faz isso. 
+print(corrige_emails[::-2]) 
